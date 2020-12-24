@@ -162,3 +162,4 @@ By signing the [CLA](https://cla.dotnetfoundation.org/OmniSharp/omnisharp-roslyn
 ## .NET Foundation
 
 This project is supported by the [.NET Foundation](http://www.dotnetfoundation.org).
+#1
